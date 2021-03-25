@@ -1,4 +1,5 @@
 # juste un autre éditeur de text
+(github can't show é for repo name !)
 this is a learning-by-doing toy project that gets me re-familiar with c++
 
 will be using the [NANA](http://nanapro.org/en-us/) GUI library
